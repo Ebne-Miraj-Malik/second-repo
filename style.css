@@ -38,7 +38,28 @@ font-weight: 800;
 
     background-repeat: no-repeat;
 }
-.dream big{background-image: url(dream-bg.png);
-    background-repeat: no-repeat;
-background-position: right;
+.dream{background-image: url(image/dream-bg.png);
+
+    background-position:right;
+    background-repeat:no-repeat;
 }
+
+.experience-area{
+    background-image: url(image/exp-bg.png);
+        background-position: left;
+    background-repeat: no-repeat;}
+
+.blue{color: rgb(127, 3, 243);}
+.experience{box-shadow: 10px 10px 50px gray;
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right:5%;
+    padding-left:20px;
+border-radius: 20px;
+ border: 10px solid;
+}
+#web developer{
+
+}
+
