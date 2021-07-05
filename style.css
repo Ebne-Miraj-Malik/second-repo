@@ -1,7 +1,7 @@
 body{font-family: 'Oswald', sans-serif;}
 h1{font-size:50px;}
 
-.orange{color: orange;}
+.orange{color: rebeccapurple;}
 
 section
 {
@@ -14,3 +14,11 @@ section
 
 .half-width img{width: 100%;}
 
+.link{background-color: slateblue;
+
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5%;
+
+
+}
